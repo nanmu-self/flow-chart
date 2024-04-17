@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T09:26:37.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="d8Y4VDejHe_AUK0EjKX2" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T05:52:12.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9Cvdb6ztAnBXB05vsZ4k" version="24.2.5" type="github">
   <diagram name="第 1 页" id="tkgYI_LDGpDvr5zShaxb">
-    <mxGraphModel dx="3915" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3541" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,46 +166,46 @@
             <mxGeometry x="-1350" y="3570" width="394" height="305" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-1" value="宠物商品与服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-1" value="宠物商品与服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="YiqR8fNox1H1KuWJPoKq-3" target="YiqR8fNox1H1KuWJPoKq-11" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="YiqR8fNox1H1KuWJPoKq-3" target="YiqR8fNox1H1KuWJPoKq-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-3" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-3" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" source="YiqR8fNox1H1KuWJPoKq-7" target="YiqR8fNox1H1KuWJPoKq-1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="YiqR8fNox1H1KuWJPoKq-7" target="YiqR8fNox1H1KuWJPoKq-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="YiqR8fNox1H1KuWJPoKq-7" target="YiqR8fNox1H1KuWJPoKq-25" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="YiqR8fNox1H1KuWJPoKq-7" target="YiqR8fNox1H1KuWJPoKq-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="YiqR8fNox1H1KuWJPoKq-7" target="YiqR8fNox1H1KuWJPoKq-33" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="YiqR8fNox1H1KuWJPoKq-7" target="YiqR8fNox1H1KuWJPoKq-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-7" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-7" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-8" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="YiqR8fNox1H1KuWJPoKq-1" target="YiqR8fNox1H1KuWJPoKq-3" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-8" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YiqR8fNox1H1KuWJPoKq-1" target="YiqR8fNox1H1KuWJPoKq-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-410" y="570" as="sourcePoint" />
             <mxPoint x="-360" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="YiqR8fNox1H1KuWJPoKq-10" target="YiqR8fNox1H1KuWJPoKq-3" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YiqR8fNox1H1KuWJPoKq-10" target="YiqR8fNox1H1KuWJPoKq-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-10" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;浏&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;览&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;壁&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;纸&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-10" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;浏&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;览&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;壁&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;纸&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-670" y="650" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-11" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;微&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;信&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;授&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;权&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;登&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;录&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-11" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;微&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;信&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;授&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;权&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;登&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;录&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-610" y="650" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-12" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;下&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;载&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;壁&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;纸&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-12" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;下&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;载&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;壁&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;纸&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-550" y="650" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="YiqR8fNox1H1KuWJPoKq-14" target="YiqR8fNox1H1KuWJPoKq-12" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="YiqR8fNox1H1KuWJPoKq-14" target="YiqR8fNox1H1KuWJPoKq-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-710" y="610" as="targetPoint" />
             <Array as="points">
@@ -214,28 +214,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-14" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;投&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;稿&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;壁&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;纸&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-14" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;投&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;稿&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;壁&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;纸&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-730" y="650" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="YiqR8fNox1H1KuWJPoKq-16" target="YiqR8fNox1H1KuWJPoKq-3" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="YiqR8fNox1H1KuWJPoKq-16" target="YiqR8fNox1H1KuWJPoKq-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-16" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;邀&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;请&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;好&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;友&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-16" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;邀&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;请&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;好&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;友&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-720" y="330" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="YiqR8fNox1H1KuWJPoKq-18" target="YiqR8fNox1H1KuWJPoKq-3" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YiqR8fNox1H1KuWJPoKq-18" target="YiqR8fNox1H1KuWJPoKq-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-18" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;签&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;到&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-18" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;签&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;到&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-660" y="330" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="YiqR8fNox1H1KuWJPoKq-20" target="YiqR8fNox1H1KuWJPoKq-3" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YiqR8fNox1H1KuWJPoKq-20" target="YiqR8fNox1H1KuWJPoKq-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-20" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;点&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;赞&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;收&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;藏&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-20" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;点&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;赞&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;收&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;藏&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-600" y="330" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="YiqR8fNox1H1KuWJPoKq-22" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="YiqR8fNox1H1KuWJPoKq-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-620" y="530" as="targetPoint" />
             <Array as="points">
@@ -244,22 +244,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-22" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;查&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;看&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;积&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;分&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-22" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;查&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;看&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;积&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;分&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-540" y="330" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="YiqR8fNox1H1KuWJPoKq-24" target="YiqR8fNox1H1KuWJPoKq-7" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YiqR8fNox1H1KuWJPoKq-24" target="YiqR8fNox1H1KuWJPoKq-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-24" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;审&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;核&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;投&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;稿&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-24" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;审&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;核&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;投&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;稿&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="330" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-25" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;系&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;统&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;配&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;置&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-25" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;系&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;统&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;配&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;置&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="330" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-26" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;标&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;签&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-26" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;标&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;签&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-70" y="330" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="YiqR8fNox1H1KuWJPoKq-28" target="YiqR8fNox1H1KuWJPoKq-26" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="YiqR8fNox1H1KuWJPoKq-28" target="YiqR8fNox1H1KuWJPoKq-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-240" y="490" />
@@ -267,10 +267,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-28" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;用&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;户&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-28" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;用&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;户&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="330" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="YiqR8fNox1H1KuWJPoKq-30" target="YiqR8fNox1H1KuWJPoKq-34" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="YiqR8fNox1H1KuWJPoKq-30" target="YiqR8fNox1H1KuWJPoKq-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-240" y="610" />
@@ -278,20 +278,147 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-30" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;作&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-30" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;作&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="650" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="YiqR8fNox1H1KuWJPoKq-32" target="YiqR8fNox1H1KuWJPoKq-7" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YiqR8fNox1H1KuWJPoKq-32" target="YiqR8fNox1H1KuWJPoKq-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-32" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;审&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;核&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;投&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;稿&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-32" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;审&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;核&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;投&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;稿&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="650" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-33" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;分&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;类&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-33" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;分&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;类&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="650" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YiqR8fNox1H1KuWJPoKq-34" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;轮&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;播&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;图&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YiqR8fNox1H1KuWJPoKq-34" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;轮&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;播&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;图&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-70" y="650" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-35" value="宠物商品与服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="uOWUiNPftrot9CuubSM1-37" target="uOWUiNPftrot9CuubSM1-45" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-37" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" source="uOWUiNPftrot9CuubSM1-41" target="uOWUiNPftrot9CuubSM1-35" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="uOWUiNPftrot9CuubSM1-41" target="uOWUiNPftrot9CuubSM1-59" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="uOWUiNPftrot9CuubSM1-41" target="uOWUiNPftrot9CuubSM1-67" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-41" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-42" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="uOWUiNPftrot9CuubSM1-35" target="uOWUiNPftrot9CuubSM1-37" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1230" y="590" as="sourcePoint" />
+            <mxPoint x="-1180" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="uOWUiNPftrot9CuubSM1-44" target="uOWUiNPftrot9CuubSM1-37" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-44" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;浏&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;览&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;壁&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;纸&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="670" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-45" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;微&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;信&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;授&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;权&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;登&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;录&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="670" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-46" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;下&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;载&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;壁&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;纸&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1370" y="670" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="uOWUiNPftrot9CuubSM1-48" target="uOWUiNPftrot9CuubSM1-46" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1530" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1530" y="630" />
+              <mxPoint x="-1350" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-48" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;投&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;稿&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;壁&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;纸&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1550" y="670" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="uOWUiNPftrot9CuubSM1-50" target="uOWUiNPftrot9CuubSM1-37" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-50" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;邀&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;请&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;好&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;友&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="350" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="uOWUiNPftrot9CuubSM1-52" target="uOWUiNPftrot9CuubSM1-37" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-52" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;签&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;到&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="350" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="uOWUiNPftrot9CuubSM1-54" target="uOWUiNPftrot9CuubSM1-37" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-54" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;点&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;赞&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;收&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;藏&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="350" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="uOWUiNPftrot9CuubSM1-56" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1440" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1340" y="510" />
+              <mxPoint x="-1439" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-56" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;查&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;看&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;积&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;分&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="350" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="uOWUiNPftrot9CuubSM1-58" target="uOWUiNPftrot9CuubSM1-41" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-58" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;审&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;核&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;投&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;稿&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="350" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-59" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;系&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;统&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;配&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;置&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="350" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-60" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;标&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;签&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="350" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="uOWUiNPftrot9CuubSM1-62" target="uOWUiNPftrot9CuubSM1-60" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1060" y="510" />
+              <mxPoint x="-870" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-62" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;用&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;户&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="350" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="uOWUiNPftrot9CuubSM1-64" target="uOWUiNPftrot9CuubSM1-68" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1060" y="630" />
+              <mxPoint x="-870" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-64" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;作&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;品&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="670" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="uOWUiNPftrot9CuubSM1-66" target="uOWUiNPftrot9CuubSM1-41" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-66" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;审&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;核&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;投&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;稿&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="670" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-67" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;分&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;类&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="670" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uOWUiNPftrot9CuubSM1-68" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;轮&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;播&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;图&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;理&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="670" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
